@@ -1,30 +1,28 @@
 {
-    "slug": "master-typescript-programming-exercises",
-    "title": {
-        "us": "Master TypeScript Skills Practicing",
-        "es": "Domina Skills de TypeScript Practicando"
-    },
-    "description": {
-        "us": "170 TypeScript exercises grouped by skill: function design (7.2), collections with arrays/matrices (8.1), and structured object data (8.3). Practice increasing difficulty with strict typing and auto-graded feedback.",
-        "es": "170 ejercicios de TypeScript agrupados por skill: diseño de funciones (7.2), colecciones con arreglos/matrices (8.1) y datos estructurados de objetos (8.3). Práctica con dificultad progresiva, tipado estricto y retroalimentación automática."
-    },
-    "preview": "",
-    "difficulty": "INTERMEDIATE",
-    "duration": null,
-    "template_url": "isForOpenLocaly",
-    "interactive": true,
-    "gitpod": false,
-    "technologies": [],
-    "projectType": "exercise",
-    "delivery": {
-        "instructions": "",
-        "formats": [
-            "url"
-        ],
-        "regex": ""
-    },
-    "editor": {
-        "agent": "vscode",
-        "version": "5.0"
-    }
+  "slug": "master-typescript-programming-exercises",
+  "title": {
+    "us": "Master TypeScript Skills Practicing",
+    "es": "Domina Skills de TypeScript Practicando"
+  },
+  "description": {
+    "us": "170 TypeScript exercises grouped by skill: function design (7.2), collections with arrays/matrices (8.1), and structured object data (8.3). Practice increasing difficulty with strict typing and auto-graded feedback.",
+    "es": "170 ejercicios de TypeScript agrupados por skill: diseño de funciones (7.2), colecciones con arreglos/matrices (8.1) y datos estructurados de objetos (8.3). Práctica con dificultad progresiva, tipado estricto y retroalimentación automática."
+  },
+  "preview": "",
+  "difficulty": "INTERMEDIATE",
+  "duration": null,
+  "projectType": "exercise",
+  "grading": "incremental",
+  "localhostOnly": false,
+  "gitpod": true,
+  "technologies": [],
+  "delivery": {
+    "instructions": "",
+    "formats": ["url"],
+    "regex": ""
+  },
+  "editor": {
+    "agent": "vscode",
+    "version": "5.0"
+  }
 }

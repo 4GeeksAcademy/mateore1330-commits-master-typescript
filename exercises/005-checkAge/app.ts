@@ -1,6 +1,5 @@
-function checkAge(name: string, age: number): string {
+function checkAge(name, age) {
   // your code here
-    return '';
+  if(age < 21) return `Go home, ${name}!`
+  else return `Welcome, ${name}!`
 }
-
-export {};

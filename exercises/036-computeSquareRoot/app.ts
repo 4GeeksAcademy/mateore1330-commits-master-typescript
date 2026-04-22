@@ -1,6 +1,7 @@
 function computeSquareRoot(num: number): number {
   // your code here
-  return 0;
+  let squareResutl = Math.sqrt(num)
+  return squareResutl;
 }
 
 export {};

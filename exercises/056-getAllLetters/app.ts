@@ -1,6 +1,10 @@
-function getAllLetters(str: string): string {
+function getAllLetters(str: string): any {
   // your code here
-  return '';
+  let letters = [];
+  for (let i = 0; i < str.length; i++) {
+    letters.push(str[i]);
+  }
+  return letters;
 }
 
 export {};

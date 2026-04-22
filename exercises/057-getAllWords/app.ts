@@ -1,6 +1,7 @@
-function getAllWords(str: string): string {
+function getAllWords(str: string): any {
   // your code here
-  return '';
+  let words = str.split(' ');
+  return words;
 }
 
 export {};

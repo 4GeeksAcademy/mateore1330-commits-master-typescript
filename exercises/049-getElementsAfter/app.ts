@@ -1,6 +1,7 @@
-function getElementsAfter(array: unknown[], n: unknown, arg3: number): string {
+function getElementsAfter(array: unknown[], n: any, arg3: number): any {
   // your code here
-  return '';
+  let elementAfter = array.slice(n + 1);
+  return elementAfter;
 }
 
 export {};

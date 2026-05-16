@@ -1,6 +1,8 @@
-function keep(arr: unknown[], keeper: number, arg3: unknown, arg4: number): string {
+function keep(arr: any[], keeper: any): any[] {
   // your code here
-  return '';
-}
+  return arr.filter((element) => element === keeper);
+  }
+
+
 
 export {};
